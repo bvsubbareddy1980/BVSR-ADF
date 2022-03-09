@@ -1,0 +1,9 @@
+{
+	"name": "BVSR-AF-GitHub",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6eec1426-a785-4c29-bf0c-45e18465a0f3",
+		"tenantId": "c608c688-164f-45c9-997d-f124d47bfac3"
+	}
+}
